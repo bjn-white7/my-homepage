@@ -1,0 +1,15 @@
+body {
+    background: #eef4fb;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.card {
+    background: white;
+    padding: 40px 60px;
+    border-radius: 18px;
+    text-align: center;
+}
